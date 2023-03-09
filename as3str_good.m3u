@@ -23,8 +23,6 @@ http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-id="DAZNLIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",DAZNLIGA B 
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 tvg-id="M.L. Campeones 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",Champions Maud
-http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 tvg-id="CHAMPIONS" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",CHAMPIONS 
 http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-id="L. Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",Campeones B
