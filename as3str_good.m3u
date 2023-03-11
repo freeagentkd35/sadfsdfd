@@ -1,12 +1,6 @@
 #EXTM3U Acestream Deportes 19/02/2023 11:30
-#EXTINF:-1 tvg-id="laliga TV MAudio no apto para todos los disp" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",LigaTV Maud
-http://127.0.0.1:6878/ace/getstream?id=1337384461e30979b22c63ca0c9e2804fb3e1091
 #EXTINF:-1 tvg-id="Liga bar" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",Liga bar 
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 tvg-id="LaLiga Tv Bar 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",LaLigaTv B
-http://127.0.0.1:6878/ace/getstream?id=e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 tvg-id="M. LaLiga 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",M.LaLiga
-http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-id="M.Liga" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",M.Liga 
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-id="MovistarLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",M.LIGA AUD 
@@ -17,7 +11,7 @@ http://127.0.0.1:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-id="M.Liga 2 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",M.Liga 2 B
 http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 tvg-id="Dazn liga" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",DaznLIGA Aud 
+#EXTINF:-1 tvg-id="Dazn liga" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",DaznLIGA-Aud 
 http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-id="DAZN LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",DaznLiga Aud
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
